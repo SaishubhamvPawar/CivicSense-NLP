@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+regex
+matplotlib
+seaborn
+torch
+transformers
+datasets
+accelerate
+evaluate
+sentencepiece
+streamlit
+joblib
